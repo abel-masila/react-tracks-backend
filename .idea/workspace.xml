@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6e0cf840-49ea-44e2-ad2a-b553d0d68c43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/schema.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/tracks/schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/tracks/schema.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
